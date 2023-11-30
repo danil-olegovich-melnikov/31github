@@ -1,13 +1,13 @@
 # 31 Day Challenge
 ## By Danil Melnikov
 
-Progress 3/31
+Progress 4/31
 
 - ✅ Day 1: Создание репозитория
 ![GitHub Logo](https://github.com/danil-olegovich-melnikov/31github/blob/master/day1/Screenshot%20from%202023-11-27%2015-08-14.png)
 - ✅ Day 2: Составление планов
 - ✅ Day 3: "Здравствуй, мир!" на языке Python
-- Day 4: Переменные и типы данных в Python
+- ✅ Day 4: Переменные и типы данных в Python
 - Day 5: Работа со строками в Python
 - Day 6: Основы математики в Python
 - Day 7: Списки в Python
